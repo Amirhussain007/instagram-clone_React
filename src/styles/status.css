@@ -1,0 +1,13 @@
+.statusContainer {
+    height: 100px;
+    display: flex;
+    width: 60vh;
+    gap: 30px;
+    justify-content: flex-start;
+    padding: 20px;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    overflow: hidden;
+    overflow-x: auto;
+}
